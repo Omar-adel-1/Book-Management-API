@@ -18,5 +18,7 @@ It allows you to **create, read, update, and delete (CRUD)** books.
 - **sync.Mutex** for thread-safe operations
 
 ## Developer Information
--Name : Omar Adel 
--Email : adelomer477@gmail.com
+
+- Name : Omar Adel
+
+- Email : adelomer477@gmail.com
